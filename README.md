@@ -26,7 +26,7 @@
 
 # Socials 🌐
 
-[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/freelancer.svg">](https://www.freelancer.com/u/AndrewMamdouh0)   [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/linkedin.svg">](https://www.linkedin.com/in/andrewmamdouh)  [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/gmail.svg">](mailto:andrewm.developer@gmail.com)  
+[<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/freelancer.svg">](https://www.freelancer.com/u/AndrewMamdouh0)   [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/linkedin.svg">](https://www.linkedin.com/in/andrewmamdouh)  [<img width="50" height="50" src="https://raw.githubusercontent.com/AndrewMamdouh/AndrewMamdouh/main/icons/gmail.vg">](mailto:andrewm.developer@gmail.com)  
 
 # Problem Solving 💡
 
