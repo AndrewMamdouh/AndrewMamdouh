@@ -17,7 +17,7 @@
 
 # Skills 🎯
 
-<img  src="https://skillicons.dev/icons?i=js,ts,java,py,cpp,react,redux,mui,html,css,mongodb,vscode,babel,express,figma,git,github,jest,jquery,nextjs,nodejs,pug,sass,styledcomponents,tailwind,vercel,vite,webpack,mongodb,postman,regex,stackoverflow"  />
+<img  src="https://skillicons.dev/icons?i=js,ts,java,react,redux,mui,html,css,mongodb,vscode,babel,express,figma,git,github,jest,jquery,nextjs,nodejs,pug,sass,styledcomponents,tailwind,vercel,vite,webpack,mongodb,postman,regex,stackoverflow"  />
 
 
 # Stats ⚡
