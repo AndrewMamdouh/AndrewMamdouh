@@ -1,7 +1,8 @@
 <img  align="right"  src="https://visitor-badge.laobi.icu/badge?page_id=AndrewMamdouh"  />
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&size=32&duration=3000&pause=500&color=FFC101&center=true&vCenter=true&multiline=true&random=false&width=435&height=90&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Andrew+Mamdouh+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Salsa&size=32&duration=3000&pause=500&color=1E8FFF&center=true&vCenter=true&multiline=true&random=false&height=90&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Andrew+Mamdouh+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
 </div>
 
 # Problem Solver & Web Developer
